@@ -1,0 +1,20 @@
+D:\Excell Reader\Excell Reader\bin\Debug\Excell Reader.exe.config
+D:\Excell Reader\Excell Reader\bin\Debug\Excell Reader.exe
+D:\Excell Reader\Excell Reader\bin\Debug\Excell Reader.pdb
+D:\Excell Reader\Excell Reader\obj\Debug\Excell Reader.csprojAssemblyReference.cache
+D:\Excell Reader\Excell Reader\obj\Debug\Excell_Reader.Form1.resources
+D:\Excell Reader\Excell Reader\obj\Debug\Excell_Reader.Properties.Resources.resources
+D:\Excell Reader\Excell Reader\obj\Debug\Excell Reader.csproj.GenerateResource.cache
+D:\Excell Reader\Excell Reader\obj\Debug\Excell Reader.csproj.CoreCompileInputs.cache
+D:\Excell Reader\Excell Reader\obj\Debug\Excell Reader.exe
+D:\Excell Reader\Excell Reader\obj\Debug\Excell Reader.pdb
+D:\C# projects\Excell Reader\Excell Reader\bin\Debug\Excell Reader.exe.config
+D:\C# projects\Excell Reader\Excell Reader\bin\Debug\Excell Reader.exe
+D:\C# projects\Excell Reader\Excell Reader\bin\Debug\Excell Reader.pdb
+D:\C# projects\Excell Reader\Excell Reader\obj\Debug\Excell_Reader.Form1.resources
+D:\C# projects\Excell Reader\Excell Reader\obj\Debug\Excell_Reader.Properties.Resources.resources
+D:\C# projects\Excell Reader\Excell Reader\obj\Debug\Excell Reader.csproj.GenerateResource.cache
+D:\C# projects\Excell Reader\Excell Reader\obj\Debug\Excell Reader.csproj.CoreCompileInputs.cache
+D:\C# projects\Excell Reader\Excell Reader\obj\Debug\Excell Reader.exe
+D:\C# projects\Excell Reader\Excell Reader\obj\Debug\Excell Reader.pdb
+D:\C# projects\Excell Reader\Excell Reader\obj\Debug\Excell Reader.csproj.AssemblyReference.cache
